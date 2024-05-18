@@ -23,7 +23,11 @@ for real-time anomaly detection. We aim to demonstrate the
 effectiveness of these models in improving IoT network security,
 thereby mitigating risks and enhancing operational reliability
 
-### Dataset Link
+### Original Raw Dataset Link
+https://ocslab.hksecurity.net/Datasets/iot-environment-dataset
+
+### OneDrive - Dataset Link (Transformed CSVs)
 https://sjsu0-my.sharepoint.com/:f:/g/personal/eshita_gupta_sjsu_edu/EiHofOROEeBMtwQWZ2kyRNMBAC9X7zoHPp5WFgm1xpDTsg?e=y8Qtaa
+
 ### Code Walkthrough
 https://youtu.be/nMrNFKnjgoE
